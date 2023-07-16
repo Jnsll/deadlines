@@ -37,8 +37,8 @@
   timezone: UTC-12
   place: Lisbon, Portugal
   date: April 14-20, 2024
-  start: 2023-04-14
-  end: 2023-04-20
+  start: 2024-04-14
+  end: 2024-04-20
   #hindex: 120
   sub: SE
 
@@ -50,8 +50,8 @@
   timezone: UTC-12
   place: Lisbon, Portugal
   date: April 14-20, 2024
-  start: 2023-04-14
-  end: 2023-04-20
+  start: 2024-04-14
+  end: 2024-04-20
   #hindex: 120
   sub: SE
 
@@ -63,8 +63,8 @@
   timezone: UTC-12
   place: Lisbon, Portugal
   date: April 14-20, 2024
-  start: 2023-04-14
-  end: 2023-04-20
+  start: 2024-04-14
+  end: 2024-04-20
   #hindex: 120
   sub: SE
 
@@ -76,10 +76,25 @@
   timezone: UTC-12
   place: Lisbon, Portugal
   date: April 14-20, 2024
-  start: 2023-04-14
-  end: 2023-04-20
+  start: 2024-04-14
+  end: 2024-04-20
   #hindex: 120
   sub: SE
+
+- title: BNAIC/BeNeLearn
+  year: 2024
+  id: bnaic23
+  link: https://bnaic2023.tudelft.nl
+  deadline: '2023-08-28 23:59:59'
+  timezone: UTC-12
+  place: Delft, Netherlands
+  date: November 08-10, 2023
+  start: 2023-11-08
+  end: 2023-11-10
+  #hindex: 120
+  sub: AI
+  note: Mandatory abstract deadline on Aug 23, 2023. More info <a href='https://bnaic2023.tudelft.nl/callforpapers'>here</a>.
+
 
 
 #- title: CVPR
