@@ -82,7 +82,7 @@
   #hindex: 120
   sub: SE
 
-  - title: ICSE-Demos
+- title: ICSE-Demos
   year: 2024
   id: icsedemo24
   link: https://conf.researchr.org/track/icse-2024/icse-2024-demonstrations
