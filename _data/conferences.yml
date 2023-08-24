@@ -138,29 +138,28 @@
   sub: SE
   note: Mandatory paper registration deadline on Sept 21, 2023.
 
-  - title: REFSQ
-    year: 2024
-    id: refsq24
-    link: https://2024.refsq.org/
-    deadline: '2023-11-11 23:59:59'
-    timezone: UTC-12
-    place: Winterthur, Switzerland
-    date: April 08-11, 2024
-    start: 2024-04-08
-    end: 2024-04-11
-    #hindex: 120
-    sub: SE
-  #note: Mandatory paper registration deadline on Sept 21, 2023.
+- title: REFSQ
+  year: 2024
+  id: refsq24
+  link: https://2024.refsq.org/
+  deadline: '2023-11-11 23:59:59'
+  timezone: UTC-12
+  place: Winterthur, Switzerland
+  date: April 08-11, 2024
+  start: 2024-04-08
+  end: 2024-04-11
+  #hindex: 120
+  sub: SE
 
-  - title: SEAA
-    year: 2023
-    id: seaa23
-    link: https://dsd-seaa2023.com/seaa/
-    deadline: '2023-05-15 23:59:59'
-    timezone: UTC-12
-    place: Durres, Albania
-    date: September 06-18, 2023
-    start: 2023-09-06
-    end: 2023-09-08
-    #hindex: 120
-    sub: SE
+- title: SEAA
+  year: 2023
+  id: seaa23
+  link: https://dsd-seaa2023.com/seaa/
+  deadline: '2023-05-15 23:59:59'
+  timezone: UTC-12
+  place: Durres, Albania
+  date: September 06-18, 2023
+  start: 2023-09-06
+  end: 2023-09-08
+  #hindex: 120
+  sub: SE
