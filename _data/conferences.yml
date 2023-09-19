@@ -175,7 +175,7 @@
   start: 2024-04-14
   end: 2024-04-15
   #hindex: 120
-  sub: AI
+  sub: [SE, AI]
   note: Recommended abstract deadline on Nov 10, 2023. More info <a href='https://conf.researchr.org/track/cain-2024/cain-2024-call-for-papers'>here</a>.
 
 - title: SANER
@@ -190,3 +190,30 @@
   end: 2024-03-15
   #hindex: 120
   sub: SE
+
+- title: ICPE
+  year: 2024
+  full_name: ACM/SPEC International Conference on Performance Engineering
+  id: icpe24
+  link: https://icpe2024.spec.org/
+  abstract_deadline: '2023-10-27 23:59:59'
+  deadline: '2023-11-03 23:59:59'
+  timezone: Europe/Rome
+  place: Kensington, London, UK
+  date: May 7-11, 2024
+  start: 2024-05-07
+  end: 2024-05-11
+  sub: [SE]
+
+- title: EuroSys
+  year: 2024
+  full_name: European Conference on Computer Systems (EuroSys)
+  id: eurosys24
+  link: https://2024.eurosys.org/
+  deadline: '2023-10-19 23:59:59'
+  timezone: Europe/Rome
+  place: Athens, Greece
+  date: April 22nd-25th, 2024
+  start: 2024-04-22
+  end: 2024-04-25
+  sub: [SE]
