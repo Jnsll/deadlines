@@ -164,7 +164,7 @@
   #hindex: 120
   sub: SE
 
-  - title: CAIN
+- title: CAIN
   year: 2024
   id: cain24
   link: https://conf.researchr.org/home/cain-2024
@@ -177,3 +177,16 @@
   #hindex: 120
   sub: SE, AI
   note: Recommended abstract deadline on Nov 10, 2023. More info <a href='https://conf.researchr.org/track/cain-2024/cain-2024-call-for-papers'>here</a>.
+
+- title: SANER
+  year: 2024
+  id: saner24
+  link: https://conf.researchr.org/home/saner-2024
+  deadline: '2023-10-13 23:59:59'
+  timezone: UTC-12
+  place: Rovaniemi, Finland
+  date: March 12-15, 2024
+  start: 2024-03-12
+  end: 2024-03-15
+  #hindex: 120
+  sub: SE
