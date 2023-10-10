@@ -180,6 +180,7 @@
 
 - title: SANER
   year: 2024
+  full_name: IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
   id: saner24
   link: https://conf.researchr.org/home/saner-2024
   deadline: '2023-10-29 23:59:59'
@@ -199,7 +200,7 @@
   link: https://icpe2024.spec.org/
   abstract_deadline: '2023-10-27 23:59:59'
   deadline: '2023-11-03 23:59:59'
-  timezone: Europe/Rome
+  timezone: UTC-12
   place: Kensington, London, UK
   date: May 7-11, 2024
   start: 2024-05-07
@@ -212,7 +213,7 @@
   id: eurosys24
   link: https://2024.eurosys.org/
   deadline: '2023-10-19 23:59:59'
-  timezone: Europe/Rome
+  timezone: UTC-12
   place: Athens, Greece
   date: April 22nd-25th, 2024
   start: 2024-04-22
@@ -225,7 +226,7 @@
   id: ict4s24
   link: https://conf.researchr.org/home/ict4s-2024
   deadline: '2024-01-26 23:59:59'
-  timezone: Europe/Rome
+  timezone: UTC-12
   place: Stockholm, Sweden
   date: June 24th-28th, 2024
   start: 2024-06-24
