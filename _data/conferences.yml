@@ -218,3 +218,17 @@
   start: 2024-04-22
   end: 2024-04-25
   sub: [SE]
+
+- title: ICT4S
+  year: 2024
+  full_name: International Conference on Information and Communications Technology for Sustainability (ICT4S)
+  id: ict4s24
+  link: https://conf.researchr.org/home/ict4s-2024
+  deadline: '2024-01-26 23:59:59'
+  timezone: Europe/Rome
+  place: Stockholm, Sweden
+  date: June 24th-28th, 2024
+  start: 2024-06-24
+  end: 2024-06-28
+  sub: [SUST, SE]
+  note: Abstract Deadline on the Jan, 19 2024.
