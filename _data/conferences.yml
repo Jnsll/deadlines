@@ -182,7 +182,7 @@
   year: 2024
   id: saner24
   link: https://conf.researchr.org/home/saner-2024
-  deadline: '2023-10-13 23:59:59'
+  deadline: '2023-10-29 23:59:59'
   timezone: UTC-12
   place: Rovaniemi, Finland
   date: March 12-15, 2024
@@ -190,6 +190,7 @@
   end: 2024-03-15
   #hindex: 120
   sub: SE
+  note: Abstract deadline on Nov 13, 2023.
 
 - title: ICPE
   year: 2024
