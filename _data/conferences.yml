@@ -232,3 +232,18 @@
   end: 2024-06-28
   sub: [SUST, SE]
   note: Abstract Deadline on the Jan, 19 2024.
+
+- title: RE
+  year: 2024
+  full_name: IEEE International Requirements Engineering Conference
+  id: re24
+  link: https://conf.researchr.org/home/RE-2024
+  deadline: '2024-01-26 23:59:59'
+  timezone: UTC-12
+  place: Reykjiavik, Iceland
+  date: April 08-11, 2024
+  start: 2024-06-24
+  end: 2024-06-28
+  #hindex: 120
+  sub: SE
+  noet: Asbtract Deadline on Jan, 19 2024.
