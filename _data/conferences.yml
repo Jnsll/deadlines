@@ -243,8 +243,54 @@
   timezone: UTC-12
   place: Reykjiavik, Iceland
   date: April 08-11, 2024
-  start: 2024-06-24
-  end: 2024-06-28
+  start: 2024-04-08
+  end: 2024-04-11
   #hindex: 120
   sub: SE
-  noet: Asbtract Deadline on Jan, 19 2024.
+  note: Asbtract Deadline on Jan, 19 2024.
+
+- title: EASE
+  year: 2024
+  full_name:  International Conference on Evaluation and Assessment in Software Engineering (EASE)
+  id: ease24
+  link: https://conf.researchr.org/home/ease-2024
+  deadline: '2024-01-18 23:59:59'
+  timezone: UTC-12
+  place: Salerno, Italy
+  date: June 18-21, 2024
+  start: 2024-06-18
+  end: 2024-06-21
+  #hindex: 120
+  sub: SE
+  note: Mandatory Asbtract Deadline on Jan, 11 2024.
+
+
+- title: ECMFA - Round 1
+  year: 2024
+  full_name: European Conference on Modelling Foundations and Applications (ECMFA) 
+  id: ecmfa24-1
+  #link: 
+  deadline: '2024-12-01 23:59:59'
+  timezone: UTC-12
+  place: Twente, The Netherlands
+  date: July, 2024
+  start: 2024-07-01
+  end: 2024-07-01
+  #hindex: 120
+  sub: [SE, MDE]
+  note: Co-located with STAF 2024.
+
+  - title: ECMFA - Round 2
+  year: 2024
+  full_name: European Conference on Modelling Foundations and Applications (ECMFA) 
+  id: ecmfa24-2
+  #link: 
+  deadline: '2024-12-01 23:59:59'
+  timezone: UTC-12
+  place: Twente, The Netherlands
+  date: July, 2024
+  start: 2024-07-01
+  end: 2024-07-01
+  #hindex: 120
+  sub: [SE, MDE]
+  note: Co-located with STAF 2024.

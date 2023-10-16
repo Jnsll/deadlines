@@ -1,10 +1,13 @@
 ---
 - name: Artificial Intelligence
   sub: AI
-  color: "#deff0a"
+  color: "#944ca0"
 - name: Sustainability
   sub: SUST
-  color: "#0aefff"
+  color: "#62b868" 
 - name: Software Engineering
   sub: SE
   color: "#147df5"
+- name: Model-Driven Engineering
+  sub: MDE
+  color: "#0aefff"
