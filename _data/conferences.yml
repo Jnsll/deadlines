@@ -284,7 +284,7 @@
   full_name: European Conference on Modelling Foundations and Applications (ECMFA) 
   id: ecmfa24-2
   #link: 
-  deadline: '2024-12-01 23:59:59'
+  deadline: '2024-02-23 23:59:59'
   timezone: UTC-12
   place: Twente, The Netherlands
   date: July, 2024
@@ -293,3 +293,19 @@
   #hindex: 120
   sub: [SE, MDE]
   note: Co-located with STAF 2024.
+
+
+  - title: ICCS
+  year: 2024
+  full_name: International Conference on Computational Science (ICCS)
+  id: iccs24
+  link: https://www.iccs-meeting.org/iccs2024/
+  deadline: '2024-01-05 23:59:59'
+  timezone: UTC-12
+  place: Málaga, Spain
+  date: July 02-04, 2024
+  start: 2024-07-02
+  end: 2024-07-04
+  #hindex: 120
+  sub: [SCI]
+  #note: Co-located with STAF 2024.

@@ -11,3 +11,6 @@
 - name: Model-Driven Engineering
   sub: MDE
   color: "#0aefff"
+- name: Scientific Computing
+  sub: SCI
+  color: "#ff1493"
