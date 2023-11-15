@@ -1,4 +1,87 @@
 ---
+- title: ICSE-Research Track - Round2
+  year: 2025
+  id: icse25
+  link: https://conf.researchr.org/track/icse-2025/icse-2025-research-track
+  deadline: '2024-08-02 23:59:59'
+  timezone: UTC-12
+  place: Ottawa, Canada
+  date: April 26-May 04, 2025
+  start: 2025-04-26
+  end: 2025-05-04
+  #hindex: 120
+  sub: SE
+  note: Abstract for July, 26 2024.
+
+- title: ICSE-Research Track - Round1
+  year: 2025
+  id: icse25
+  link: https://conf.researchr.org/track/icse-2025/icse-2025-research-track
+  deadline: '2024-03-22 23:59:59'
+  timezone: UTC-12
+  place: Ottawa, Canada
+  date: April 26-May 04, 2025
+  start: 2025-04-26
+  end: 2025-05-04
+  #hindex: 120
+  sub: SE
+  note: Abstract for March, 15 2024.
+
+- title: ICSE-NIER
+  year: 2025
+  id: icsenier25
+  link: https://conf.researchr.org/track/icse-2025/icse-2025-new-ideas-and-emerging-results
+  deadline: '2023-10-10 23:59:59'
+  timezone: UTC-12
+  place: Ottawa, Canada
+  date: April 26-May 04, 2025
+  start: 2025-04-26
+  end: 2025-05-04
+  #hindex: 120
+  sub: SE
+
+- title: ICSE-SEIS
+  year: 2025
+  id: icseseis25
+  link: https://conf.researchr.org/track/icse-2025/icse-2025-software-engineering-in-society
+  deadline: '2023-10-10 23:59:59'
+  timezone: UTC-12
+  place: Ottawa, Canada
+  date: April 26-May 04, 2025
+  start: 2025-04-26
+  end: 2025-05-04
+  #hindex: 120
+  sub: SE
+  
+
+- title: ICSE-SEIP
+  year: 2025
+  id: icseseip25
+  link: https://conf.researchr.org/track/icse-2025/icse-2025-software-engineering-in-practice
+  deadline: '2024-10-10 23:59:59'
+  timezone: UTC-12
+  place: Ottawa, Canada
+  date: April 26-May 04, 2025
+  start: 2025-04-26
+  end: 2025-05-04
+  #hindex: 120
+  sub: SE
+
+- title: ICSE-Demos
+  year: 2025
+  id: icsedemo25
+  link: https://conf.researchr.org/track/icse-2025/icse-2025-demonstrations
+  deadline: '2024-10-10 23:59:59'
+  timezone: UTC-12
+  place: Ottawa, Canada
+  date: April 26-May 04, 2025
+  start: 2025-04-26
+  end: 2025-05-04
+  #hindex: 120
+  sub: SE
+  note: The submission must be accompanied by a short video (between three and five minutes long) illustrating the demonstration.
+
+
 - title: AAAI
   year: 2024
   id: aaai24
@@ -309,3 +392,4 @@
   #hindex: 120
   sub: [SCI]
   #note: Co-located with STAF 2024.
+
