@@ -1,4 +1,18 @@
 ---
+- title: ASE - Research Paper
+  year: 2024
+  id: ase24
+  link: https://conf.researchr.org/track/ase-2024/ase-2024-research#Call-for-Papers
+  deadline: '2024-06-07 23:59:59'
+  timezone: UTC-12
+  place: Sacramento, USA
+  date: October 27-November 01, 2024
+  start: 2024-10-27
+  end: 2025-11-01
+  #hindex: 120
+  sub: SE
+  note: Abstract for May, 31 2024.
+
 - title: ICSE-Research Track - Round2
   year: 2025
   id: icse25
