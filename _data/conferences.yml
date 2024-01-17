@@ -13,7 +13,7 @@
   sub: SE
   note: Abstract for May, 31 2024.
 
-- title: ICSE-Research Track - Round2
+- title: ICSE-Research Track - Round 2
   year: 2025
   id: icse25
   link: https://conf.researchr.org/track/icse-2025/icse-2025-research-track
@@ -25,9 +25,9 @@
   end: 2025-05-04
   #hindex: 120
   sub: SE
-  note: Abstract for July, 26 2024.
+  note: Mandatory! Abstract for July, 26 2024.
 
-- title: ICSE-Research Track - Round1
+- title: ICSE-Research Track - Round 1
   year: 2025
   id: icse25
   link: https://conf.researchr.org/track/icse-2025/icse-2025-research-track
@@ -39,7 +39,7 @@
   end: 2025-05-04
   #hindex: 120
   sub: SE
-  note: Abstract for March, 15 2024.
+  note: Mandatory! Abstract for March, 15 2024.
 
 - title: ICSE-NIER
   year: 2025
