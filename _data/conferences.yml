@@ -1,4 +1,22 @@
 ---
+
+- title: eScience
+  year: 2024
+  full_name: IEEE eScience (eScience)
+  id: escience24
+  link: https://www.escience-conference.org/2024/
+  deadline: '2024-05-25 23:59:59'
+  timezone: UTC-12
+  place: Osaka, Japan
+  date: September 16-20, 2024
+  start: 2024-09-16
+  end: 2024-09-20
+  #hindex: 120
+  sub: [SCI]
+  note: Submission date not yet fixed. This is an estimated date for now.
+
+
+
 - title: ASE - Research Paper
   year: 2024
   id: ase24
@@ -15,7 +33,7 @@
 
 - title: ICSE-Research Track - Round 2
   year: 2025
-  id: icse25
+  id: icse25-2
   link: https://conf.researchr.org/track/icse-2025/icse-2025-research-track
   deadline: '2024-08-02 23:59:59'
   timezone: UTC-12
@@ -29,7 +47,7 @@
 
 - title: ICSE-Research Track - Round 1
   year: 2025
-  id: icse25
+  id: icse25-1
   link: https://conf.researchr.org/track/icse-2025/icse-2025-research-track
   deadline: '2024-03-22 23:59:59'
   timezone: UTC-12
