@@ -1,11 +1,26 @@
 ---
 
+
+- title: AIware - Main Track
+  year: 2024
+  id: aiware24
+  link: https://2024.aiwareconf.org/track/aiware-2024-papers
+  deadline: '2024-03-29 23:59:59'
+  timezone: UTC-12
+  place:  Porto de Galinhas, Brazil
+  date: July 15-July 16, 2024
+  start: 2024-07-15
+  end: 2024-07-16
+  #hindex: 120
+  sub: AI, SE
+  note: Optional intent to submit for March, 22 2024.
+
 - title: eScience
   year: 2024
   full_name: IEEE eScience (eScience)
   id: escience24
   link: https://www.escience-conference.org/2024/
-  deadline: '2024-05-25 23:59:59'
+  deadline: '2024-05-06 23:59:59'
   timezone: UTC-12
   place: Osaka, Japan
   date: September 16-20, 2024
@@ -14,8 +29,6 @@
   #hindex: 120
   sub: [SCI]
   note: Submission date not yet fixed. This is an estimated date for now.
-
-
 
 - title: ASE - Research Paper
   year: 2024
